@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .a {
+        fill: #f0f0f0;
+      }
+
+      .b {
+        font-size: 92px;
+        letter-spacing: 0em;
+      }
+
+      .b, .j, .k {
+        fill: #333;
+      }
+
+      .b, .i, .k {
+        font-family: Aleo-Bold, Aleo;
+        font-weight: 700;
+      }
+
+      .c {
+        fill: #dedede;
+      }
+
+      .d {
+        fill: #c4c4c4;
+      }
+
+      .e {
+        fill: #37485d;
+      }
+
+      .f {
+        fill: #e59428;
+      }
+
+      .g {
+        fill: #814974;
+      }
+
+      .h {
+        fill: #5cbeb6;
+      }
+
+      .i, .k {
+        font-size: 44px;
+        letter-spacing: 0em;
+      }
+
+      .i {
+        fill: #fff;
+      }
+
+      .j {
+        font-size: 36px;
+        font-family: Lato-Light, Lato;
+      }
+    </style>
+  </defs>
+  <title>PitchDeck_New_BasicFree 13.08.2016</title>
+  <rect class="a" width="1920" height="1080"/>
+  <g>
+    <text class="b" transform="translate(110.64 160.29)">Chart design</text>
+    <ellipse class="c" cx="1417.83" cy="603.49" rx="358.83" ry="358.83"/>
+    <path class="d" d="M1271.46,836.07l200.15,122.57s114.93-14.72,200-101.51c0,0,160.08-142.64,84.74-372.86L1559.61,364.72Z"/>
+    <path class="e" d="M1692.6,603.49c0,151.75-123,274.77-274.77,274.77s-274.78-123-274.78-274.77,123-274.77,274.78-274.77S1692.6,451.74,1692.6,603.49Z"/>
+    <path class="f" d="M1417.83,603.49V328.71s239.61-9.46,274.95,247.77Z"/>
+    <path class="g" d="M1417.83,603.49,1591.54,816s109.27-69.39,101.24-239.54Z"/>
+    <path class="h" d="M1417.83,603.49l66.82,266.59s68-12.45,130.11-73.54Z"/>
+    <text class="i" transform="translate(1506.37 483.53)">23%</text>
+    <text class="i" transform="translate(1563.67 676.91)">15%</text>
+    <text class="i" transform="translate(1200.18 626.78)">55%</text>
+    <text class="i" transform="translate(1483.09 798.67)">7%</text>
+    <g>
+      <g>
+        <circle class="f" cx="139.64" cy="844.99" r="19"/>
+        <text class="j" transform="translate(176.64 857.01)">2014</text>
+      </g>
+      <g>
+        <circle class="g" cx="318.72" cy="844.99" r="19"/>
+        <text class="j" transform="translate(353.88 859.49)">2015</text>
+      </g>
+      <g>
+        <circle class="h" cx="496.31" cy="844.99" r="19"/>
+        <text class="j" transform="translate(532.62 859.49)">2016</text>
+      </g>
+      <g>
+        <circle class="e" cx="674.64" cy="844.99" r="19"/>
+        <text class="j" transform="translate(710.61 857.01)">2017</text>
+      </g>
+    </g>
+    <text class="k" transform="translate(120.64 378.7)">Chart design</text>
+    <text class="j" transform="translate(121.18 477.96)">Mauris erat mi, dignissim eu mi a, aliquet <tspan x="0" y="48">commodo est. Aliquam commodo tempor mi, </tspan><tspan x="0" y="96">et accumsan quam tempus ut. Nam tincidunt </tspan><tspan x="0" y="144">urna vitae ornare porta. Pellentesque </tspan><tspan x="0" y="192">vehicula, tortor a aliquam commodo, justo </tspan><tspan x="0" y="240">orci viverra lectus, volutpat pretium.</tspan></text>
+    <circle class="d" cx="1417.83" cy="603.49" r="84.69"/>
+  </g>
+</svg>
